@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
