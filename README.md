@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0264-ugly-number-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0050-powx-n) |
+## Hash Table
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0264-ugly-number-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0264-ugly-number-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
