@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0137-single-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0724-find-pivot-index](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0476-number-complement](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0476-number-complement) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
