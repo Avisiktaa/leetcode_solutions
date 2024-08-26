@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0137-single-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0724-find-pivot-index](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0724-find-pivot-index) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0264-ugly-number-ii) |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2470-removing-stars-from-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
