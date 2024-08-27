@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0264-ugly-number-ii) |
+| [3371-harshad-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3371-harshad-number) |
 ## Two Pointers
 |  |
 | ------- |
