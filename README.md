@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0724-find-pivot-index](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2102-find-the-middle-index-in-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2714-left-and-right-sum-differences) |
@@ -97,11 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2102-find-the-middle-index-in-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2714-left-and-right-sum-differences) |
 ## Simulation
 |  |
 | ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+## Binary Search
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
