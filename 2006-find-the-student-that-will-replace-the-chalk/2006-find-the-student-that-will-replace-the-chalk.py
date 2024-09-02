@@ -8,5 +8,5 @@ class Solution:
             if k<chalk[i]:
                 return i
             k-=chalk[i]
-        return 0
+
             
