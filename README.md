@@ -122,13 +122,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0969-number-of-recent-calls) |
 ## Binary Search
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
