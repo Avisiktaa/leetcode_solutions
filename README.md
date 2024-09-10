@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0264-ugly-number-ii) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3371-harshad-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3371-harshad-number) |
 ## Two Pointers
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0860-design-circular-queue](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0860-design-circular-queue) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0948-sort-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
