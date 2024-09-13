@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0264-ugly-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0338-counting-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0137-single-number-ii) |
+| [0338-counting-bits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
