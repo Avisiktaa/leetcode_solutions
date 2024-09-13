@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Prefix Sum
 |  |
 | ------- |
