@@ -1,22 +1,25 @@
 class Solution {
-    public int longestSubarray(int[] nums) {
-       int max=nums[0],len=0,cnt=0;
-       int n1=nums.length;
-       for(int i=1;i<n1;i++)
-       {
-            if(max<nums[i])
-            max=nums[i];
-       }
-        for(int n:nums)
+    public int longestSubarray(int[] a) {
+        int n=a.length;
+        int max=0;
+        int c=0,c1=0;
+        for(int i=0;i<n;i++)
         {
-            if(n==max)
-            {
-                cnt++;
-                len=Math.max(len,cnt);
-            }
-            else
-            cnt=0;
+            if(max<a[i])
+            max=a[i];
         }
-        return len;
+        for(int i=0;i<n;i++)
+        {
+            if(max==a[i])
+            {
+                c1++;
+                c=Math.max(c,c1);
+            }
+                else
+                c1=0;
+            
+        }
+        return c;
+        
     }
 }
