@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2714-left-and-right-sum-differences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2714-left-and-right-sum-differences) |
+| [3114-beautiful-towers-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3114-beautiful-towers-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1078-remove-outermost-parentheses](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2470-removing-stars-from-a-string) |
+| [3114-beautiful-towers-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3114-beautiful-towers-i) |
 ## Recursion
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3114-beautiful-towers-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3114-beautiful-towers-i) |
 <!---LeetCode Topics End-->
