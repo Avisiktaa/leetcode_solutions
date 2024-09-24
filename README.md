@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0344-reverse-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0969-number-of-recent-calls) |
 ## Binary Search
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0948-sort-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
