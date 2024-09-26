@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2714-left-and-right-sum-differences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2714-left-and-right-sum-differences) |
 | [3114-beautiful-towers-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3114-beautiful-towers-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2470-removing-stars-from-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2470-removing-stars-from-a-string) |
+| [2536-determine-if-two-events-have-conflict](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3567-convert-date-to-binary](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3567-convert-date-to-binary) |
 ## Stack
 |  |
