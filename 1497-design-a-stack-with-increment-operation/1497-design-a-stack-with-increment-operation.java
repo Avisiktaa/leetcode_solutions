@@ -22,11 +22,19 @@ class CustomStack {
     }
     
     public void increment(int k, int val) {
-        int lim=Math.min(k,top+1);
-        for(int i=0;i<lim;i++)
+        if(k<top+1)
+     {   for(int i=0;i<k;i++)
         {
             stack[i]+=val;
         }
+    }
+    else
+    {
+      for(int i=0;i<top+1;i++)
+        {
+            stack[i]+=val;
+        }  
+    }
     }
 }
 
