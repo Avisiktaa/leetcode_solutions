@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0948-sort-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2102-find-the-middle-index-in-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2102-find-the-middle-index-in-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0948-sort-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
