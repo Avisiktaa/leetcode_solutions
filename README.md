@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0731-my-calendar-ii) |
 | [0860-design-circular-queue](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0860-design-circular-queue) |
 | [0948-sort-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0948-sort-an-array) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1256-rank-transform-of-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1256-rank-transform-of-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0948-sort-an-array) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Number Theory
