@@ -1,20 +1,23 @@
 class Solution:
     def areSentencesSimilar(self, sentence1: str, sentence2: str) -> bool:
-        s1=sentence1.split()
-        s2=sentence2.split()
-        n1=len(s1)
-        n2=len(s2)
+        # Split the sentences into words
+        words1 = sentence1.split()
+        words2 = sentence2.split()
 
-        st1=0
-        st2=0
-        end1=n1-1
-        end2=n2-1
-        while st1<=end1 and st2<=end2 and s1[st1]==s2[st1]:
-            st1+=1
-            st2+=1
-        while end1>=st1 and end2>=st2 and s1[end1]==s2[end2]:
-            end1-=1
-            end2-=1
-        if end1<st1 or end2<st2:
-            return True
-        return False
+        # Ensure words1 is the longer sentence
+        if len(words1) < len(words2):
+            words1, words2 = words2, words1
+        
+        start, end = 0, 0
+        n1, n2 = len(words1), len(words2)
+        
+        # Compare from the start
+        while start < n2 and words1[start] == words2[start]:
+            start += 1
+        
+        # Compare from the end
+        while end < n2 and words1[n1 - end - 1] == words2[n2 - end - 1]:
+            end += 1
+        
+        # Check if the remaining unmatched part is in the middle
+        return start + end >= n2
