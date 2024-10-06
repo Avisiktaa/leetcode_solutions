@@ -1,14 +1,9 @@
 class Solution {
 
-    // Helper function to split a sentence into words
-    private String[] splitWords(String sentence) {
-        return sentence.split(" ");
-    }
-
     public boolean areSentencesSimilar(String sentence1, String sentence2) {
         // Split both sentences into arrays of words
-        String[] words1 = splitWords(sentence1);
-        String[] words2 = splitWords(sentence2);
+        String[] words1 = sentence1.split(" ");
+        String[] words2 = sentence2.split(" ");
 
         // Ensure words1 is the longer sentence
         if (words1.length < words2.length) {
