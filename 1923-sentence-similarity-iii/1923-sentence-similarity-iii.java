@@ -5,8 +5,8 @@ class Solution {
         String[] words1 = sentence1.split(" ");
         String[] words2 = sentence2.split(" ");
 
-        // Ensure words1 is the longer sentence
-        if (words1.length < words2.length) {
+        
+        if (words1.length > words2.length) {
             String[] temp = words1;
             words1 = words2;
             words2 = temp;
@@ -16,16 +16,16 @@ class Solution {
         int n1 = words1.length, n2 = words2.length;
 
         // Compare from the start
-        while (start < n2 && words1[start].equals(words2[start])) {
+        while (start < n1 && words1[start].equals(words2[start])) {
             start++;
         }
 
         // Compare from the end
-        while (end < n2 && words1[n1 - end - 1].equals(words2[n2 - end - 1])) {
+        while (end < n1 && words1[n1 - end - 1].equals(words2[n2 - end - 1])) {
             end++;
         }
 
         // Check if the remaining unmatched part is in the middle
-        return start + end >= n2;
+        return start + end >= n1;
     }
 }
