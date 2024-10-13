@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0476-number-complement) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0948-sort-an-array) |
 ## Quickselect
