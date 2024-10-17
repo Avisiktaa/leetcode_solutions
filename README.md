@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0670-maximum-swap](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0670-maximum-swap) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3371-harshad-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3371-harshad-number) |
 | [3567-convert-date-to-binary](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3567-convert-date-to-binary) |
