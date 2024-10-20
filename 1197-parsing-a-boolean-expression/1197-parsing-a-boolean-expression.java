@@ -44,7 +44,8 @@ class Solution {
 
         }
      } 
-     return st.peek()=='t';
-     
+     if (st.peek()=='t')
+     return true;
+     return false;  
     }
 }
