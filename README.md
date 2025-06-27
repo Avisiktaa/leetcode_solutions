@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0731-my-calendar-ii) |
 | [0860-design-circular-queue](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0860-design-circular-queue) |
+| [0940-fruit-into-baskets](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0948-sort-an-array) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1256-rank-transform-of-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-fruit-into-baskets](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -363,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
