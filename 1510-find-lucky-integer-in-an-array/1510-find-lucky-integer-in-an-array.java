@@ -1,6 +1,6 @@
 class Solution {
     public int findLucky(int[] arr) {
-        int res=0,maxres=-1;
+        int res=-1;
        int[] freq=new int[501];
        for(int i=0;i<arr.length;i++)
        {
@@ -12,9 +12,9 @@ class Solution {
         if(i==freq[i])
         {
         res=i;
-        maxres=Math.max(maxres,res);
+        
         }
        }
-       return maxres;
+       return res;
     }
 }
