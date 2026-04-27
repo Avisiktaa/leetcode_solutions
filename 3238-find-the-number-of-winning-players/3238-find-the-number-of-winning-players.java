@@ -1,26 +1,25 @@
 class Solution {
     public int winningPlayerCount(int n, int[][] pick) {
-     int len=pick.length;
-     int[][] arr=new int[n][11];
+      int winner = 0;
+        // Map: Player ID -> (Ball Color -> Count)
+        HashMap<Integer, HashMap<Integer, Integer>> map = new HashMap<>(); 
+        HashSet<Integer> playerWinner = new HashSet<>();
 
-     for(int i=0;i<len;i++)
-     {
-        int player=pick[i][0];
-        int color=pick[i][1];
-        arr[player][color]++;
-     } 
-    int count=0;
-     for(int i=0;i<n;i++)
-     {
-        for(int j=0;j<11;j++)
-        {
-            if(arr[i][j]>=i+1)
-            {
-            count++;
-            break;
+        for(int i = 0; i < pick.length; i++){
+            int player = pick[i][0];
+            int color = pick[i][1];
+            
+            if(playerWinner.contains(player)) continue;
+
+            HashMap<Integer, Integer> ballDetails = map.getOrDefault(player, new HashMap<>());
+            ballDetails.put(color, ballDetails.getOrDefault(color, 0) + 1);
+            map.put(player, ballDetails);
+
+            if(ballDetails.get(color) > player){
+                winner++;
+                playerWinner.add(player);
             }
         }
-     }
-     return count;
+        return winner;
     }
 }
