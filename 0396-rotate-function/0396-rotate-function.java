@@ -12,7 +12,7 @@ class Solution {
         maxi=sum;
         for(int i=n-1;i>=1;i--)
         {
-            sum+= total-(nums[i]*n);
+            sum+= total-(nums[i]*(n-1))-nums[i];
             maxi=Math.max(sum,maxi);
         }
         return maxi;
