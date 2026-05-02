@@ -1,35 +1,26 @@
 class Solution {
-    public int rotate(int n) {
-        StringBuilder sb = new StringBuilder();
-        int num = n;
 
-        while(n > 0) {
-            int rem = n % 10;
-
-            if(rem == 3 || rem == 4 || rem == 7) {
-                return num;
-            } else if(rem == 2) {
-                sb.insert(0, 5);
-            } else if(rem == 5) {
-                sb.insert(0,  2);
-            } else if(rem == 6) {
-                sb.insert(0, 9);
-            } else if(rem == 9) {
-                sb.insert(0, 6);
-            } else {
-                sb.insert(0, rem);
+        private boolean isGood(int num) {
+        boolean isDifferent = false;
+        
+        while(num > 0) {
+            int digit = num % 10;
+            num /= 10;
+            
+            if (digit == 3 || digit == 4 ||digit == 7) {
+                return false;
             }
-
-            n = n / 10;
+            if (digit == 2 || digit == 5 || digit == 6 || digit == 9) {
+                isDifferent = true;
+            }
         }
-
-        return Integer.valueOf(sb.toString());
+        return isDifferent;
     }
     public int rotatedDigits(int n) {
          int count = 0;
         
         for(int i=1; i<=n; i++) {
-            if(i != rotate(i)) {
+            if(isGood(i)) {
                 count++;
             }
         }
