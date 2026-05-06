@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1861-rotating-the-box](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1861-rotating-the-box) |
 | [1923-sentence-similarity-iii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2102-find-the-middle-index-in-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2102-find-the-middle-index-in-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1861-rotating-the-box](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1861-rotating-the-box) |
 | [1923-sentence-similarity-iii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0048-rotate-image) |
+| [1861-rotating-the-box](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1861-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Design
 |  |
