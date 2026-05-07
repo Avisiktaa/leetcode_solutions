@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3660-jump-game-ix](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3660-jump-game-ix) |
 ## Greedy
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0788-rotated-digits) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [3660-jump-game-ix](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3660-jump-game-ix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
