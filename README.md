@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2714-left-and-right-sum-differences) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3114-beautiful-towers-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3114-beautiful-towers-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3238-find-the-number-of-winning-players) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0788-rotated-digits) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3660-jump-game-ix) |
 ## Heap (Priority Queue)
 |  |
