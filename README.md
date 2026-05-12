@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2714-left-and-right-sum-differences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2714-left-and-right-sum-differences) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2470-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Matrix
 |  |
