@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0860-design-circular-queue) |
 | [0940-fruit-into-baskets](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0948-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1256-rank-transform-of-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0994-rotting-oranges](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1861-rotating-the-box](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1861-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Design
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
