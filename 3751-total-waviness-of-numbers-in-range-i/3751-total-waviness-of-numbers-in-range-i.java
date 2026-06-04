@@ -1,23 +1,29 @@
 class Solution {
+    public int helper(int num) {
+        int ans=0;
 
-    private int waviness(int x)
-    {
-        String s=Integer.toString(x);
-        int cnt=0;
-        for(int i=1;i<s.length()-1;i++)
-        {
-            char ch=s.charAt(i);
+        int last=num%10;
+        num/=10;
+        int curr=num%10;
+        num/=10;
 
-            if((ch>s.charAt(i-1) && ch>s.charAt(i+1)) || (ch<s.charAt(i-1) && ch<s.charAt(i+1)))
-            cnt++;
+        while(num>0) {
+            int next=num%10;
+            num/=10;
+            if((curr>last && curr>next) || (curr<last && curr<next)) {
+                ans++;
+            }
+            last=curr;
+            curr=next;
         }
-        return cnt;
+        return ans;
     }
     public int totalWaviness(int num1, int num2) {
+        
         int ans=0;
-        for(int i=num1;i<=num2;i++)
-        {
-            ans+=waviness(i);
+        for(int i=num1;i<=num2;i++) {
+            if(i<100) continue;
+            ans+=helper(i);
         }
         return ans;
     }
