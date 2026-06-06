@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-determine-if-two-events-have-conflict](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2540-minimum-common-value](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2102-find-the-middle-index-in-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2102-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2714-left-and-right-sum-differences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2714-left-and-right-sum-differences) |
 ## Simulation
 |  |
