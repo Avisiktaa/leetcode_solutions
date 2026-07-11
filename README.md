@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0056-merge-intervals) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0137-single-number-ii) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0948-sort-an-array) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Sliding Window
 |  |
@@ -514,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
