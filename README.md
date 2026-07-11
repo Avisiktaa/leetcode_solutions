@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1306-jump-game-iii) |
+| [2685-count-the-number-of-complete-components](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Trie
 |  |
 | ------- |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1345-jump-game-iv) |
+| [2685-count-the-number-of-complete-components](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -503,8 +505,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0200-number-of-islands) |
+| [2685-count-the-number-of-complete-components](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
