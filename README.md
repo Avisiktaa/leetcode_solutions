@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1256-rank-transform-of-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1306-jump-game-iii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1345-jump-game-iv) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1345-jump-game-iv) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
