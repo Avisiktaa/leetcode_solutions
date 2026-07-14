@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3114-beautiful-towers-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3114-beautiful-towers-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3238-find-the-number-of-winning-players) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3371-harshad-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3371-harshad-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3567-convert-date-to-binary](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3567-convert-date-to-binary) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0788-rotated-digits) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3660-jump-game-ix](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Heap (Priority Queue)
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Brainteaser
 |  |
 | ------- |
