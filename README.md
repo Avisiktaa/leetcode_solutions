@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0118-pascals-triangle) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0670-maximum-swap) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
