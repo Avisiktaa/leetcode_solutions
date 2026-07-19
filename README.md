@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1861-rotating-the-box](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1861-rotating-the-box) |
 | [1923-sentence-similarity-iii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1923-sentence-similarity-iii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2102-find-the-middle-index-in-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2126-destroying-asteroids](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2126-destroying-asteroids) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0670-maximum-swap) |
 | [0788-rotated-digits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0788-rotated-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
