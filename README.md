@@ -536,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0196-delete-duplicate-emails) |
+| [0511-game-play-analysis-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0620-not-boring-movies) |
