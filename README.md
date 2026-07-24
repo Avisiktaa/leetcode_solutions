@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0386-lexicographical-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1306-jump-game-iii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1306-jump-game-iii) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
