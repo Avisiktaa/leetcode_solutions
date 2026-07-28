@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0948-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0994-rotting-oranges) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1256-rank-transform-of-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1306-jump-game-iii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1306-jump-game-iii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
