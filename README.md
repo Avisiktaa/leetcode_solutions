@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3371-harshad-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3371-harshad-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-convert-date-to-binary](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3567-convert-date-to-binary) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3568-find-the-key-of-the-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2784-check-if-array-is-good](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2784-check-if-array-is-good) |
+| [3536-maximum-product-of-two-digits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
