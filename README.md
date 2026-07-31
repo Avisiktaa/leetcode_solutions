@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0027-remove-element) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0038-count-and-say) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
