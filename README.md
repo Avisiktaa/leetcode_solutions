@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2784-check-if-array-is-good](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2784-check-if-array-is-good) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-determine-if-two-events-have-conflict](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2784-check-if-array-is-good) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3238-find-the-number-of-winning-players](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3238-find-the-number-of-winning-players) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 ## Number Theory
