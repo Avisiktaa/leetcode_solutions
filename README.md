@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0056-merge-intervals) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0118-pascals-triangle) |
