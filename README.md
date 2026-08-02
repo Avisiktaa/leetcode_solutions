@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0733-flood-fill) |
 | [0860-design-circular-queue](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0860-design-circular-queue) |
+| [0877-stone-game](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0877-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0948-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0994-rotting-oranges) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0670-maximum-swap) |
 | [0788-rotated-digits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0877-stone-game) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -615,4 +618,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
