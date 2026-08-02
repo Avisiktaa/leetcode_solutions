@@ -13,13 +13,6 @@ class Solution {
         return dp[i][j]=Math.max(left,right);
     }
     public boolean stoneGame(int[] nums) {
-        int n=nums.length;
-        int[][] dp=new int[n][n];
-        for(int[] rows:dp)
-        {
-            Arrays.fill(rows,-1);
-        }
-
-        return find(nums,0,n-1,dp)>=0;
+        return true;
     }
 }
