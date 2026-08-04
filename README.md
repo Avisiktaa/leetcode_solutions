@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3731-find-missing-elements](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
