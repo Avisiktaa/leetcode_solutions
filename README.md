@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0724-find-pivot-index](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0729-my-calendar-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0179-largest-number) |
+| [0605-can-place-flowers](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
