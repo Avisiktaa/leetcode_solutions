@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
 |  |
 | ------- |
