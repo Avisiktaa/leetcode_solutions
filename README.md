@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3660-jump-game-ix) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
