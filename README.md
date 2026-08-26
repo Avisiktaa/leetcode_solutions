@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0263-ugly-number) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1861-rotating-the-box](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1861-rotating-the-box) |
