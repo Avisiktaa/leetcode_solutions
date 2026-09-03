@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
