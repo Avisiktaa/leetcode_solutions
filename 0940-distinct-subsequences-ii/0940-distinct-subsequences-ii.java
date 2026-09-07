@@ -1,18 +1,21 @@
 class Solution {
     public int distinctSubseqII(String s) {
-        int MOD = (int)1e9 + 7;
+       int MOD = 1_000_000_007;
 
-        long[] count = new long[26];
-        long sum = 0;
+        long[] last = new long[26];
+
+        long count = 1;
 
         for (char c : s.toCharArray()) {
-            long total = (1 + sum) % MOD;
-            int idx = c - 'a';
 
-            sum = (sum + total - count[idx] + MOD) % MOD;
-            count[idx] = total;
+            int ch = c - 'a';
+
+            long newCount = (2 * count - last[ch] + MOD) % MOD;
+
+            last[ch] = count;
+            count = newCount;
         }
 
-        return (int)sum;
+        return (int) ((count - 1 + MOD) % MOD);
     }
 }
