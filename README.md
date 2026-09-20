@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1470-shuffle-the-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1528-shuffle-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1528-shuffle-string) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1528-shuffle-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1528-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1923-sentence-similarity-iii) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
