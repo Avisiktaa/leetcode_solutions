@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-shuffle-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1528-shuffle-string) |
+| [1539-kth-missing-positive-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0731-my-calendar-ii) |
+| [1539-kth-missing-positive-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2540-minimum-common-value](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
