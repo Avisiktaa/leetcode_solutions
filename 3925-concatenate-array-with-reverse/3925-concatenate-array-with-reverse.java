@@ -5,12 +5,10 @@ class Solution {
         int k=0;
         for(int i=0;i<n;i++)
         {
-            ans[k++]=nums[i];
+            ans[i]=nums[i];
+            ans[2*n-i-1]=nums[i];
         }
-        for(int i=n-1;i>=0;i--)
-        {
-            ans[k++]=nums[i];
-        }
+
         return ans;
     }
 }
