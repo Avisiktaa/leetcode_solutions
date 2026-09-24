@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0056-merge-intervals) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0115-distinct-subsequences) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0190-reverse-bits) |
