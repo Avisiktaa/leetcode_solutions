@@ -1,28 +1,24 @@
 class Solution {
-
-    private int[][] dp;
-    private int func(int[] nums,int id,int prev)
-    {   int n=nums.length;
+    public int solve(int[] nums,int id,int prev,int n,int[][] dp)
+    {
         if(id==n)
         return 0;
-
         if(dp[id][prev+1]!=-1)
         return dp[id][prev+1];
 
-        int len=0+func(nums,id+1,prev);
-
+        int not=solve(nums,id+1,prev,n,dp);
+        int take=0;
         if(prev==-1 || nums[id]>nums[prev])
-        len=Math.max(len,1+func(nums,id+1,id));
-
-        return dp[id][prev+1]=len;
+        take=1+solve(nums,id+1,id,n,dp);
+        return dp[id][prev+1]=Math.max(take,not);
     }
     public int lengthOfLIS(int[] nums) {
         int n=nums.length;
-        dp=new int[n][n+1];
-        for(int[] row:dp)
+        int[][] dp=new int[n][n+1];
+        for(int i=0;i<n;i++)
         {
-            Arrays.fill(row,-1);
+            Arrays.fill(dp[i],-1);
         }
-        return func(nums,0,-1);
+        return solve(nums,0,-1,n,dp);
     }
 }
