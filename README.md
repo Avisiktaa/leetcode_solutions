@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0463-island-perimeter) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0695-max-area-of-island) |
@@ -762,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -784,4 +788,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0139-word-break) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
