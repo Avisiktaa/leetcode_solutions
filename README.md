@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0486-predict-the-winner) |
+| [0518-coin-change-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0605-can-place-flowers) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0486-predict-the-winner) |
+| [0518-coin-change-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0877-stone-game) |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0518-coin-change-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0518-coin-change-ii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
