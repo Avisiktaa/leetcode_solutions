@@ -1,48 +1,46 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        int m = grid.length;
-        int n = grid[0].length;
-        int[][] visited = grid;
-        Queue<int[]> q = new LinkedList<>();
-        int countFreshOrange = 0;
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (visited[i][j] == 2) {
-                    q.offer(new int[] {i, j});
+        int m=grid.length;
+        int n=grid[0].length;
+
+        Queue<int[]> q=new LinkedList<>();
+        int fresh=0;
+        int time=0;
+        for(int i=0;i<m;i++)
+        {
+            for(int j=0;j<n;j++)
+            {
+                if(grid[i][j]==2)
+                {
+                q.add(new int[]{i,j,0});
                 }
-                if (visited[i][j] == 1) {
-                    countFreshOrange++;
+                else if(grid[i][j]==1)
+                fresh++;
+            }
+        }
+        if(fresh==0)
+        return 0;
+        int[][] dirs={{-1,0},{0,1},{1,0},{0,-1}};
+        while(!q.isEmpty())
+        {
+            int[] curr=q.poll();
+            int r=curr[0];
+            int c=curr[1];
+            int t=curr[2];
+            time=Math.max(time,t);
+
+            for(int[] d:dirs)
+            {
+                int nr=d[0]+r;
+                int nc=d[1]+c;
+                if(nr>=0 && nr<m && nc>=0 && nc<n && grid[nr][nc]==1)
+                {
+                    grid[nr][nc]=2;
+                    fresh--;
+                    q.add(new int[]{nr,nc,t+1});
                 }
             }
         }
-        if (countFreshOrange == 0)
-            return 0;
-        if (q.isEmpty())
-            return -1;
-        
-        int minutes = -1;
-        int[][] dirs = {{1, 0},{-1, 0},{0, -1},{0, 1}};
-        while (!q.isEmpty()) {
-            int size = q.size();
-            while (size-- > 0) {
-                int[] cell = q.poll();
-                int x = cell[0];
-                int y = cell[1];
-                for (int[] dir : dirs) {
-                    int i = x + dir[0];
-                    int j = y + dir[1];
-                    if (i >= 0 && i < m && j >= 0 && j < n && visited[i][j] == 1) {
-                        visited[i][j] = 2;
-                        countFreshOrange--;
-                        q.offer(new int[] {i, j});
-                    }
-                }
-            }
-            minutes++;
-        }
-        
-        if (countFreshOrange == 0)
-            return minutes;
-        return -1;
+        return fresh==0?time:-1;
     }
 }
