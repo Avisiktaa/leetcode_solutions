@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-design-circular-queue](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0860-design-circular-queue) |
 | [0877-stone-game](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0877-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0940-fruit-into-baskets) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0486-predict-the-winner) |
+| [0746-min-cost-climbing-stairs](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
