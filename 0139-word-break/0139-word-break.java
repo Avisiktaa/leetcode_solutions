@@ -10,7 +10,7 @@ class Solution {
         }
         for(int i=1;i<=n;i++)
         {
-            for(int j=i-1;j>=Math.max(i-maxl-0,0);j--)
+            for(int j=i-1;j>=Math.max(i-maxl,0);j--)
             {
                 if(dp[j] && wordDict.contains(s.substring(j,i)))
                 {
