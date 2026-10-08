@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0179-largest-number) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -600,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
@@ -639,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -774,4 +780,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
