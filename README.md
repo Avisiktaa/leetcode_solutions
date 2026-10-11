@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1143-longest-common-subsequence](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Avisiktaa/leetcode_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -866,4 +868,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
