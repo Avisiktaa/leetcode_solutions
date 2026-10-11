@@ -646,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0733-flood-fill) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Sliding Window
 |  |
@@ -840,4 +843,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0207-course-schedule) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
