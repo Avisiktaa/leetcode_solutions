@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0547-number-of-provinces) |
@@ -716,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Sliding Window
