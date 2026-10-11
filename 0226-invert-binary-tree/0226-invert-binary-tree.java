@@ -21,18 +21,12 @@ class Solution {
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(root);
 
-        while (!queue.isEmpty()) {
-            TreeNode curr = queue.poll();
+        TreeNode temp=root.left;
+        root.left=root.right;
+        root.right=temp;
 
-            // Swap left and right children
-            TreeNode temp = curr.left;
-            curr.left = curr.right;
-            curr.right = temp;
-
-            // Add children to queue if not null
-            if (curr.left != null) queue.add(curr.left);
-            if (curr.right != null) queue.add(curr.right);
-        }
+        invertTree(root.left);
+        invertTree(root.right);
 
         return root;
     }
