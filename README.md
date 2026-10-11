@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0115-distinct-subsequences) |
@@ -879,4 +881,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1143-longest-common-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
