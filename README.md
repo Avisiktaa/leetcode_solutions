@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0169-majority-element) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0695-max-area-of-island) |
