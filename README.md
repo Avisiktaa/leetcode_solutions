@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0190-reverse-bits) |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0257-binary-tree-paths) |
 ## Boyer–Moore Majority Vote Algorithm
