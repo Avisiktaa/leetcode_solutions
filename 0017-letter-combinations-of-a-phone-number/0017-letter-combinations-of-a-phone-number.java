@@ -22,8 +22,8 @@ class Solution {
     {
         if(id==digits.length())
         {
-        res.add(comb.toString());
-        return;
+            res.add(comb.toString());
+            return;
         }
         String lets=dig.get(digits.charAt(id));
         for(char let:lets.toCharArray())
