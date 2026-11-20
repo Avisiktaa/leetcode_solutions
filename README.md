@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0518-coin-change-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0605-can-place-flowers) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1861-rotating-the-box](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1861-rotating-the-box) |
 | [1923-sentence-similarity-iii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1923-sentence-similarity-iii) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0948-sort-an-array) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -585,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0729-my-calendar-i](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0731-my-calendar-ii) |
 | [1539-kth-missing-positive-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1539-kth-missing-positive-number) |
