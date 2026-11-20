@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
