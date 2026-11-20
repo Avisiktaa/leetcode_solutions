@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1323-maximum-69-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1903-largest-odd-number-in-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2126-destroying-asteroids](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Avisiktaa/leetcode_solutions/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1323-maximum-69-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1528-shuffle-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1528-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Avisiktaa/leetcode_solutions/tree/master/1923-sentence-similarity-iii) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Avisiktaa/leetcode_solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
